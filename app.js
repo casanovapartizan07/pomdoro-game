@@ -34,8 +34,8 @@ function setTimerDuration(timerType) {
 			seconds = 0;
 			break;
 		case "shortBreak":
-			minutes = 0;
-			seconds = 5;
+			minutes = 2;
+			seconds = 0;
 			break;
 		case "longBreak":
 			minutes = 15;
